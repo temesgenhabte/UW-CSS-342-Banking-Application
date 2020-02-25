@@ -1,0 +1,3 @@
+C:/Users/Temesgen/CLionProjects/HW6_Banking/cmake-build-debug/CMakeFiles/HW6_Banking.dir
+C:/Users/Temesgen/CLionProjects/HW6_Banking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Temesgen/CLionProjects/HW6_Banking/cmake-build-debug/CMakeFiles/rebuild_cache.dir
