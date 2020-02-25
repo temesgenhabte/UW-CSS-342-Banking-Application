@@ -1,5 +1,7 @@
 //
-// Created by Temesgen on 12/4/2019.
+// Created by Temesgen Habte
+// The Account class defines the methods that the user can perform between multiple
+// Accounts and between funds within an account.
 //
 
 #include "Account.h"
